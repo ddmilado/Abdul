@@ -2,3 +2,5 @@ tsconfig.json -text
 .expo/README.md -text
 .expo/packager-info.json -text
 .expo/settings.json -text
+.expo/tsconfig.base
+
